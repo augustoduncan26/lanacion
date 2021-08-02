@@ -9,7 +9,8 @@ PASOS:
 - Descargar todos los archivos desde el repo o clonandolo desde el siguiente enlace
 https://github.com/augustoduncan26/lanacion.git
 
-- Crear una base dato llamada: starships
+- Crear una base dato llamada: starships_db
+
 Dentro de la Base de dato creada, importar el archivo: swapi_db.sql , la cual contiene la estructura de las tablas.
 
 - Luego descargue el archivo (swapi-test.zip) dentro de su entorno local (localhost).
