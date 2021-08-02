@@ -14,9 +14,9 @@ https://github.com/augustoduncan26/lanacion.git
 
 Dentro de la Base de dato creada, importar el archivo: swapi_db.sql , la cual contiene la estructura de las tablas.
 
-- Luego descargue el archivo (swapi-test.zip) dentro de su entorno local (localhost).
+- Luego hay que descargar el archivo (swapi-test.zip) dentro de su entorno local (localhost).
 
-- Al correr por primera vez la app (aplicación) , esta se conectará a la API Swapi para descargar los datos de cada tabla.
+- Al correr por primera vez la app (aplicación) , esta se conectará a la API Swapi para descargar los datos de cada tabla (por única vez).
 
 Dentro de la app podrá:
 
