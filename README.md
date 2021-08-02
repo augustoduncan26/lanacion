@@ -22,6 +22,6 @@ Dentro de la app podrá:
 
 1- Hacer consulta de las Naves espaciales / Vehiculos
 
-2- Agregar (Duplicar) y Elimniar Naves espaciales / Vehiculos
+2- Agregar y Elimniar Naves espaciales / Vehiculos
 
 Nota: Cada vez que agregue o elimine un registro el valor total (starships, vehicles) se incrementará o disminuira.
