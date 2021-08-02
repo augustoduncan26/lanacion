@@ -24,3 +24,4 @@ Dentro de la app podrá:
 
 2- Agregar (Duplicar) y Elimniar Naves espaciales / Vehiculos
 
+Nota: Cada vez que agregue o elimine un registro el valor total (starships, vehicles) se incrementará o disminuira.
