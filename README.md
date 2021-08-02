@@ -17,5 +17,7 @@ Dentro de la Base de dato creada, importar el archivo: swapi_db.sql , la cual co
 
 - Al correr por primera vez la app (aplicación) , esta se conectará a la API Swapi para descargar los datos de cada tabla.
 
-
+Dentro de la app podrá:
+1- Hacer consulta de las Naves espaciales / Vehiculos
+2- Agregar (Duplicar) y Elimniar Naves espaciales / Vehiculos
 
