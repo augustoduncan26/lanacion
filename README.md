@@ -1,5 +1,5 @@
 # lanacion
-Test La Nacion
+Test La Nacion.
 Para poder reproducir la app, siga los siguientes pasos:
 
 Necesario para el entorno: PHP, MySQL, Apache
