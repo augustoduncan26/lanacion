@@ -1,0 +1,23 @@
+/* Classes style */
+
+.fa-pencil , .fa-trash, .fa-copy, .fa-plus{ margin-left: 15px;}
+.cursor { cursor: pointer;}
+.form-style {background-color: #8080800d;padding: 10px;border-radius: 5px;border: 1px solid #8080804a;}
+.messg {display: none;}
+.flo-right {float: right;}
+.alert, .icons-starships, .icons-vehicles, .total-vehicles-container, 
+.total-death-stars-container { display: none;}
+/* Table styles */
+.tbl-width { width: 100%;}
+.wt-50 { width: 50px;}
+.wt-100 { width: 100px;}
+.wt-150 { width: 150px;}
+.wt-200 { width: 200px;}
+.wt-10-pr { width: 10%;}
+.wt-20-pr { width: 20%;}
+.wt-100-pr { width: 100%;}
+.title-resource-reports{font-size: 20px;font-weight: 500;}
+/* Id classes */
+#addCustomer {
+    display: none;
+}
